@@ -19,11 +19,11 @@ const KYC_Feature = () => {
           </div>
 
           {/* ------ Right Text Section ------ */}
-          <div className="bg-[#EEF2FB] p-6 md:p-10 rounded-lg w-full lg:h-[480px] content-center h-auto">
+          <div className="bg-[#EEF2FB] p-6 md:p-10 rounded-lg w-full lg:h-[480px] content-center h-auto ">
             <h1 className="text-2xl sm:text-3xl  lg:text-[32px] text-[#006A44] font-bold pb-5 text-center lg:text-left">
               First-Ever Online e-KYC Feature
             </h1>
-            <ul className="list-disc pl-5 text-base sm:text-lg text-[#000000] leading-relaxed space-y-3">
+            <ul className="list-disc pl-5 text-base sm:text-lg text-[#000000] leading-relaxed space-y-3 ">
               <li>
                 Complete online trading process and access to portfolio from
                 anywhere, anytime.
@@ -75,11 +75,11 @@ const KYC_Feature = () => {
       {/* ------Research Knows No Bound Section start------ */}
       <div className="flex flex-col-reverse lg:flex-row items-center justify-between gap-10 md:gap-16 lg:w-[1444px] mb-[114px] ">
         {/* ------ Left Text Section ------ */}
-        <div className="bg-[#EEF2FB] p-6 md:p-10 rounded-lg w-full h-auto lg:h-[556px] content-center">
-          <h1 className="text-2xl sm:text-3xl lg:text-[32px] text-[#006A44] font-bold pb-5 text-center lg:text-left">
+        <div className="bg-[#EEF2FB] p-6 md:p-10 rounded-lg w-full h-auto lg:h-[556px] content-center ">
+          <h1 className="text-2xl sm:text-3xl lg:text-[32px] text-[#006A44] font-bold pb-5 text-center lg:text-left lg:pl-[100px] ">
             First-Ever Online e-KYC Feature
           </h1>
-          <ul className="list-disc pl-5 text-base sm:text-lg text-[#000000] leading-relaxed space-y-3">
+          <ul className="list-disc pl-5  text-base sm:text-lg text-[#000000] leading-relaxed space-y-3 lg:pl-28">
             <li>
               Complete online trading process and access to portfolio from
               anywhere, anytime.
